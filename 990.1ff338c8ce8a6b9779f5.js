@@ -1,0 +1,1 @@
+(self.webpackChunkCubeHeadsUI=self.webpackChunkCubeHeadsUI||[]).push([[990],{29120:()=>{},46586:()=>{},24654:()=>{}}]);
