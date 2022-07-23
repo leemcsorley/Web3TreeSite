@@ -1,0 +1,1 @@
+(self.webpackChunkCubeHeadsUI=self.webpackChunkCubeHeadsUI||[]).push([[563],{36563:()=>{}}]);
